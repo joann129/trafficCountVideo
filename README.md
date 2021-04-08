@@ -1,1 +1,3 @@
 # trafficCountVideo
+使用opencv內建的dnn模型和yolov3訓練檔
+實作車流辨識
